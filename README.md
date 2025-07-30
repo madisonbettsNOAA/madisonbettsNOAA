@@ -2,7 +2,7 @@
 
 ## About Me:
 
-I am a fish ecologist and geneticist currently working as a contractor for NOAA's Northwest Fisheries Science Center. In my current role, I work on a variety of projects within the lab and in the field, with study species that range from marine mammals to giant manta rays and anadromous fishes. A large portion of my work centers on supporting the eDNA initiatives of the [Integrated West Coast Pelagics Survey](https://www.fisheries.noaa.gov/west-coast/science-data/integrated-west-coast-pelagics-survey). Although much of my current work is focused on marine ecology, my research interests and background reflect my deep passion for freshwater systems and their inhabitants, especially nongame fishes.  
+I am a fish ecologist and geneticist currently working as a contractor for NOAA's Northwest Fisheries Science Center. In my current role, I work on a variety of projects within the lab and in the field, with study species that range from marine mammals to anadromous fishes. A large portion of my work centers on supporting the eDNA initiatives of the [Integrated West Coast Pelagics Survey](https://www.fisheries.noaa.gov/west-coast/science-data/integrated-west-coast-pelagics-survey) (IWCPS). I also assist with pinniped and mobulid bycatch genetic identification projects, and a long-term project looking at the effect of the shrimp fishery on endangered eulachon populations. 
 
 ### The team I sailed with recently on the Bell M. Shimada as part of the IWCPS!
 ![The team I sailed with recently on the IWCPS](IMG_8947.JPEG)
